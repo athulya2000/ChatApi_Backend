@@ -1,4 +1,4 @@
 package com.example.chatapi.dao;
 
-public interface UserDao {
+public interface UserDao  {
 }
